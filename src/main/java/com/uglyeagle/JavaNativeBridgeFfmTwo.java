@@ -1,4 +1,4 @@
-package com.ugleagle;
+package com.uglyeagle;
 
 /**
  *
